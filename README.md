@@ -8,4 +8,4 @@ https://gabor-pusztai-elte.vercel.app/
 
 https://gaborpusztaielte.github.io/GaborPusztaiELTE---Quartz/
 
-<a href="https://gaborpusztaielte.github.io/GaborPusztaiELTE---Quartz/">Vercel Digital Garden</a>
+<a href="https://gaborpusztaielte.github.io/GaborPusztaiELTE---Quartz/">GaborPusztaiELTE---Quartz</a>
